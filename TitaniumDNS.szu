@@ -1,0 +1,39 @@
+# HOSTS-FILE
+https://hosts-file.net/ad_servers.txt
+https://hosts-file.net/hphosts-partial.txt
+https://hosts-file.net/emd.txt
+https://hosts-file.net/exp.txt
+https://hosts-file.net/fsa.txt
+https://hosts-file.net/grm.txt
+https://hosts-file.net/hfs.txt
+https://hosts-file.net/hjk.txt
+https://hosts-file.net/mmt.txt
+https://hosts-file.net/pha.txt
+https://hosts-file.net/psh.txt
+https://hosts-file.net/pup.txt
+https://hosts-file.net/wrz.txt
+# ADAWAY
+https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
+# PGL YOYO
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&showintro=0
+# WinHelp2002
+http://winhelp2002.mvps.org/hosts.txt
+# MalwareDomaineList
+http://www.malwaredomainlist.com/hostslist/hosts.txt
+# Airelle http://rlwpx.free.fr/WPFF/ - (by CBUISJS on GitHub)
+https://raw.githubusercontent.com/cbuijs/airelle/master/malware.domains.list
+# Steven Black
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
+#
+#
+# Sources to check and verify later
+#http://www.hostsfile.org/Downloads/hosts.txt
+#https://raw.githubusercontent.com/eladkarako/hosts/master/_raw__hosts.txt
+#https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
+#https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+#https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+#https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+#https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+#https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
+#https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
